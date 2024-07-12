@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: rgb(176, 242, 242);
+}
+.container{
+       background-color: green;
+       color: white;
+       justify-content:space-around;
+       display: flex;
+       flex-direction: row;
+}
+
+
+
+
+.one input{
+    width: 36%;
+
+}
+.two input{
+    width: 17%;
+
+}
